@@ -9,5 +9,8 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <HashRouter>
 			<HeroesApp />
 		</HashRouter>    
+    {/* <BrowserRouter>
+      <HeroesApp />
+    </BrowserRouter>    */}
   </React.StrictMode>,
 )
